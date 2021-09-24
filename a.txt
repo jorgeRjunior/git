@@ -1,3 +1,4 @@
 Teste A
 Esta linha foi modificada no ramo MASTER
 Linha modificada no ramo novoRamo
+ARQUIVO MODIFICADO NO WINDOWS E ENVIADO PARA O GIT
