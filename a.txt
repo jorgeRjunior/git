@@ -1,1 +1,2 @@
 Teste A
+Linha modificada no ramo novoRamo
